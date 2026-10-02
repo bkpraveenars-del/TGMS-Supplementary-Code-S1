@@ -1,6 +1,6 @@
 # Supplementary Code S1
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23104508.svg)](https://doi.org/10.5281/zenodo.23104508)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23105076.svg)](https://doi.org/10.5281/zenodo.23105076)
 
 Code and computed values for the review:
 
@@ -10,7 +10,8 @@ Hybrid Breeding**
 
 ## DOI
 
-Zenodo DOI supplied for this archive: [10.5281/zenodo.23104508](https://doi.org/10.5281/zenodo.23104508)
+Concept DOI: [10.5281/zenodo.23105076](https://doi.org/10.5281/zenodo.23105076)  
+Published version: [10.5281/zenodo.23105077](https://doi.org/10.5281/zenodo.23105077)
 
 This archive contains everything needed to reproduce, from scratch, every number
 labelled *computed* or *modelled* in the manuscript and every one of its ten figures.
