@@ -1,0 +1,29 @@
+quantity,value,unit,appears_in
+radiative conductance g_r at 22 C,0.1931,mol m-2 s-1,"Eq. 3, Table 5"
+"total conductance at u=0.3 m/s, d=10 mm",1.765,mol m-2 s-1,Section 5.2
+thermal resistance at u=0.3 m/s,51.715,W m-2 K-1,Section 5.2
+"total conductance at u=1.0 m/s, d=10 mm",3.0631,mol m-2 s-1,Section 5.2
+thermal resistance at u=1.0 m/s,89.7474,W m-2 K-1,Section 5.2
+"total conductance at u=3.0 m/s, d=10 mm",5.164,mol m-2 s-1,Section 5.2
+thermal resistance at u=3.0 m/s,151.3063,W m-2 K-1,Section 5.2
+dT clear-sky noon,1.3037,K,Table 4
+"dT clear-sky noon, still air",2.2624,K,Table 4
+"dT clear-sky noon, breezy",0.7733,K,Table 4
+"dT clear-sky noon, maximal coating",3.2341,K,Table 4
+dT hazy,0.7243,K,Table 4
+dT overcast,0.2607,K,Table 4
+dT night,0.0,K,Table 4
+NIR share of global shortwave flux,0.532,fraction,Section 4.2
+unexploited NIR flux at 1000 W/m2,387.4582,W m-2,Section 4.2
+"dT cool part-cloudy day, peak",0.717,K,"Fig. 6c, Table 4"
+"dT cool part-cloudy day, daylight mean",0.4558,K,"Fig. 6c, Table 4"
+"dT cool part-cloudy day, 24 h mean",0.2281,K,"Fig. 6c, Table 4"
+"dT cool part-cloudy day, night mean",0.0,K,"Fig. 6c, Table 4"
+dT mean over the 12-day cool spell,0.3084,K,"Section 5.3, Table 4"
+"hours below CSIT, untreated",64.0,h,Fig. 2e
+"hours below CSIT, coating",62.5,h,Fig. 2e
+"hours below CSIT, deep water",19.0,h,Fig. 2e
+modelled deep-water offset at 17 cm,2.4561,K,"Section 7.1, Table 6"
+IPCA1 share of interaction SS (simulated),0.8658,fraction,"Section 8.3, Fig. 10e"
+IPCA2 share of interaction SS (simulated),0.1342,fraction,"Section 8.3, Fig. 10e"
+"smallest detectable difference, 12 environments",0.3781,logit units,"Section 8.3, Fig. 10f"

@@ -1,0 +1,10 @@
+{
+  "title": "Supplementary Code S1 for: Photothermal Nanomaterials and Thermo-Sensitive Genic Male Sterility in Rice - A Quantitative Feasibility Analysis of Microclimate Engineering for Climate-Resilient Hybrid Breeding",
+  "upload_type": "software",
+  "description": "Python code reproducing the panicle energy-balance model, the sterility and hybrid-purity models, the irrigation-offset model, the simulated multi-environment analysis, and all ten figures of the accompanying review article. Includes computed_values.csv listing every computed quantity with its units and the table or figure in which it appears.",
+  "license": "MIT",
+  "keywords": ["thermo-sensitive genic male sterility", "TGMS", "TMS5", "two-line hybrid rice", "panicle energy balance", "photothermal conversion", "AMMI", "critical sterility-inducing temperature"],
+  "creators": [
+    {"name": "Kumar, Praveen", "affiliation": "Department of Genetics and Plant Breeding, College of Agriculture, Agriculture University Jodhpur, Rajasthan, India"}
+  ]
+}
